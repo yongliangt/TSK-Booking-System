@@ -5,6 +5,7 @@ CA19103	TUA YONG LIANG	03A
 CB19104	SHIA LEE YEE	03A
 CA19108	KONG CHOON	03A
 
+We are Universiti Malaysia Pahang (UMP) Faculty of Computing's students. When creating this program was studing Year 1 Semester 2 session 2019/2020.
 
 This system is a C language booking system.
 
