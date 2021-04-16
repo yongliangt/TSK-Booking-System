@@ -17,4 +17,4 @@ One the system run, it will automatically create 2 files.
 2. Appointment.txt (This file created to print out the appointment readable file to let the users to view the appointment list in the simple way.)
 
 
-Hope thissimple program is helping you.
+Hope this simple program is helping you.
