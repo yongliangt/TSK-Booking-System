@@ -1,4 +1,4 @@
-# TSK
+# TSK-Booking-System
 CREATED BY:
 CA19103	TUA YONG LIANG	03A
 CB19104	SHIA LEE YEE	  03A
@@ -6,7 +6,7 @@ CA19108	KONG CHOON	    03A
 
 This system is a C language booking system.
 
-Instruction:
+# Instruction:
 
 Username: username
 Password: password
